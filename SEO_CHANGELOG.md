@@ -146,6 +146,24 @@
 
 **Questions for SEO review:** After visual review, should the watermark appear only on hero sections or also on selected trust/service-area sections?
 
+## 2026-06-19
+
+**Pages changed:** Sitewide CSS only.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved copy, URL structure, metadata, schema, FAQs, sitemap, robots, CTAs, forms, and internal links while refining visual balance.
+
+**Internal links added:** None.
+
+**Schema changes:** None.
+
+**Technical changes:** Rebalanced the "Get help with this problem" CTA panel with a centered compact call option and wider, shorter form card; replaced the hero-corner watermark with a larger fixed centered low-opacity logo watermark behind section content.
+
+**Open issues:** Static forms still use `mailto:` until a real form handler is connected.
+
+**Questions for SEO review:** Should the fixed watermark remain visible across all sections, or be limited to service-page hero areas after live visual testing?
+
 ## Date:
 
 ### Pages Changed
