@@ -74,6 +74,24 @@
 
 ---
 
+## 2026-06-19
+
+**Pages changed:** Homepage; all existing pages using the shared header; water heater repair; leak repair; water pressure repair; drain cleaning; toilet repair.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved homepage-to-problem-page architecture while making the Quick Problem Finder persistent across the site; kept one H1 per page, existing titles, meta descriptions, canonicals, FAQs, schema, and clean URLs.
+
+**Internal links added:** Added persistent header links to the five main problem pages: No Hot Water, Leak or Water Damage, Low Water Pressure, Clogged Drains, and Toilet Problems.
+
+**Schema changes:** None.
+
+**Technical changes:** Rebuilt the shared header as a compact sticky conversion header; removed "Atlanta plumbing help"; added above-the-fold call/form panels to the five main problem pages; tightened mobile header and hero spacing.
+
+**Open issues:** Static forms still use `mailto:` until Netlify Forms or another lead handler is connected.
+
+**Questions for SEO review:** Should the sticky header also include About/Residential/Emergency links on desktop, or keep the funnel focused on the five problem paths plus call?
+
 ## Date:
 
 ### Pages Changed
