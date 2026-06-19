@@ -1,4 +1,4 @@
-# SEO Changelog
+# TNT Plumbing SEO Changelog
 
 ## 2026-06-19
 
@@ -17,3 +17,41 @@
 **Open issues:** Replace placeholder phone number, owner/team details, service areas, photos, review content, and offer language with verified TNT Plumbing information before launch.
 
 **Questions for SEO review:** Which exact cities should remain in the service area? Is emergency availability 24/7 or limited? Is "Free whole-home inspection with service" an active offer? What verified owner bios and photos can be published?
+
+---
+
+## Date:
+
+### Pages Changed
+
+-
+
+### SEO Improvements
+
+-
+
+### Internal Links Added
+
+-
+
+### Schema Changes
+
+-
+
+### New Pages Created
+
+-
+
+### Technical Changes
+
+-
+
+### Open Issues
+
+-
+
+### Questions For SEO Review
+
+-
+
+---
