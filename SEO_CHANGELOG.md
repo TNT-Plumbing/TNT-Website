@@ -164,6 +164,24 @@
 
 **Questions for SEO review:** Should the fixed watermark remain visible across all sections, or be limited to service-page hero areas after live visual testing?
 
+## 2026-06-19
+
+**Pages changed:** Sitewide CSS only.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved copy, URL structure, metadata, schema, sitemap, robots, CTAs, forms, and internal links while refining the service-page conversion card.
+
+**Internal links added:** None.
+
+**Schema changes:** None.
+
+**Technical changes:** Adjusted the "Get help with this problem" panel toward a wide screenshot-style card; centered the compact Call Now action; made the form wider and shorter with Name and Phone side-by-side on desktop; increased the fixed centered watermark size while lowering opacity.
+
+**Open issues:** Static forms still use `mailto:` until a real form handler is connected.
+
+**Questions for SEO review:** After browser review, should the service hero text column be reduced further to give the CTA card even more visual priority?
+
 ## Date:
 
 ### Pages Changed
