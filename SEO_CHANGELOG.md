@@ -128,6 +128,24 @@
 
 **Questions for SEO review:** Should About remain in the sticky shortcut row after launch, or move into a secondary menu if the header gets crowded on smaller phones?
 
+## 2026-06-19
+
+**Pages changed:** Sitewide CSS only.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved existing copy, URLs, metadata, schema, FAQs, sitemap, robots, internal links, and service architecture while refining branded presentation.
+
+**Internal links added:** None.
+
+**Schema changes:** None.
+
+**Technical changes:** Matched CTA Call Now button sizing to the compact header call style; added a low-opacity TNT logo watermark behind hero/service sections using pseudo-elements with foreground content kept fully opaque.
+
+**Open issues:** Static forms still use `mailto:` until a real form handler is connected.
+
+**Questions for SEO review:** After visual review, should the watermark appear only on hero sections or also on selected trust/service-area sections?
+
 ## Date:
 
 ### Pages Changed
