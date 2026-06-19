@@ -54,6 +54,24 @@
 
 **Questions for SEO review:** Should supporting guide pages stay live for launch with current light guide copy, or be expanded before indexing?
 
+## 2026-06-19
+
+**Pages changed:** Homepage; water heater repair; leak repair; drain cleaning; toilet repair; water pressure repair; emergency plumber; residential plumbing; supporting guide pages.
+
+**New pages created:** None.
+
+**SEO improvements:** Humanized service-page copy while preserving title tags, meta descriptions, schema, FAQs, internal links, and topical coverage; reduced planning-language and repetitive phrasing.
+
+**Internal links added:** None. Existing Quick Problem Finder, header, footer, service, FAQ, and supporting guide links preserved.
+
+**Schema changes:** None.
+
+**Technical changes:** Added reusable conversion CTA form styling; added simple final call/form CTA blocks to the homepage and core service pages; removed repetitive list prefix styling.
+
+**Open issues:** Static form uses `mailto:` until a Netlify form handler or CRM endpoint is configured.
+
+**Questions for SEO review:** Should the final CTA form be connected to Netlify Forms before launch? Should homepage lower-page educational sections be trimmed further after visual review?
+
 ---
 
 ## Date:

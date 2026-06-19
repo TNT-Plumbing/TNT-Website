@@ -85,7 +85,15 @@ p { margin-top: 0; }
 .faq summary h3 { display: inline; font-size: 1.05rem; }
 .check-list { padding: 0; margin: 0; list-style: none; }
 .check-list li { padding: .72rem .8rem; border-bottom: 1px solid var(--line); }
-.check-list li::before { content: "Check: "; font-weight: 900; color: var(--blue-dark); }
+.check-list li::before { content: ""; }
+.conversion-cta { display: grid; grid-template-columns: minmax(0, .9fr) minmax(300px, .7fr); gap: clamp(1rem, 3vw, 2rem); align-items: start; padding: clamp(2.5rem, 6vw, 5rem) clamp(1rem, 4vw, 4rem); background: var(--navy); color: white; }
+.conversion-cta h2, .conversion-cta .eyebrow { color: white; }
+.conversion-cta p { color: #d7e6ee; max-width: 680px; }
+.quick-form { display: grid; gap: .85rem; background: white; color: var(--ink); border-radius: 8px; padding: clamp(1rem, 3vw, 1.4rem); box-shadow: var(--shadow); }
+.quick-form label { display: grid; gap: .35rem; font-weight: 800; }
+.quick-form input, .quick-form textarea { width: 100%; border: 1px solid var(--line); border-radius: 7px; padding: .8rem; font: inherit; color: var(--ink); background: #fff; }
+.quick-form textarea { resize: vertical; }
+.quick-form .btn { width: 100%; cursor: pointer; }
 .related ul, .site-footer ul { padding-left: 1.1rem; }
 .footer-contact { margin-top: .75rem; }
 .site-footer { background: #0f2536; color: white; padding: clamp(2rem, 5vw, 4rem) clamp(1rem, 4vw, 4rem) 2rem; }
@@ -95,7 +103,7 @@ p { margin-top: 0; }
 .fine-print { margin-top: 2rem; color: #b8cad5; font-size: .9rem; }
 @media (max-width: 980px) {
   .main-nav { display: none; }
-  .hero, .service-hero, .split, .image-section, .image-section.reverse, .two-column { grid-template-columns: 1fr; }
+  .hero, .service-hero, .split, .image-section, .image-section.reverse, .two-column, .conversion-cta { grid-template-columns: 1fr; }
   .problem-grid, .card-grid, .trust-grid, .three-up, .footer-grid { grid-template-columns: 1fr 1fr; }
   .problem-grid.compact { grid-template-columns: 1fr 1fr; }
 }
