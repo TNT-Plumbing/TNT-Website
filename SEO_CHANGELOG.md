@@ -182,6 +182,24 @@
 
 **Questions for SEO review:** After browser review, should the service hero text column be reduced further to give the CTA card even more visual priority?
 
+## 2026-06-19
+
+**Pages changed:** Homepage.
+
+**New pages created:** None.
+
+**SEO improvements:** Added a service areas section with natural geographic coverage, grouped city visibility, and no city-page expansion or repetitive "plumber in city" phrasing.
+
+**Internal links added:** None. Preserved the residential plumbing internal link in the service area section.
+
+**Schema changes:** None.
+
+**Technical changes:** Added a custom branded SVG service area map and responsive service-area city grid with a call CTA.
+
+**Open issues:** Confirm the final active city list before launch and remove any communities TNT Plumbing does not regularly serve.
+
+**Questions for SEO review:** Should any cities be added or removed from Metro Atlanta, Gwinnett, East Atlanta, or Northeast Georgia before indexing?
+
 ## Date:
 
 ### Pages Changed

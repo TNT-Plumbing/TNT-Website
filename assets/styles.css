@@ -101,6 +101,18 @@ p { margin-top: 0; }
 .service-area { background: var(--navy); color: white; }
 .service-area h2, .service-area a { color: white; }
 .service-area p { max-width: 980px; color: #d7e6ee; }
+.service-area .section-heading { max-width: 980px; }
+.service-map-card { margin: 1.5rem 0; border: 1px solid rgba(255,255,255,.18); border-radius: 8px; padding: clamp(.75rem, 2vw, 1.1rem); background: rgba(255,255,255,.08); box-shadow: 0 18px 45px rgba(0,0,0,.18); }
+.service-map { display: block; width: 100%; height: auto; border-radius: 8px; overflow: hidden; }
+.city-groups { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; margin-top: 1.2rem; }
+.city-groups article { border: 1px solid rgba(255,255,255,.16); border-radius: 8px; background: rgba(255,255,255,.08); padding: 1.1rem; }
+.city-groups h3 { color: white; }
+.city-groups ul { display: grid; gap: .35rem; padding-left: 1.1rem; margin: .6rem 0 0; color: #d7e6ee; }
+.service-area-cta { display: flex; align-items: center; justify-content: space-between; gap: 1.25rem; margin: 1.5rem 0 1rem; border: 1px solid rgba(255,255,255,.18); border-radius: 8px; padding: clamp(1rem, 2.5vw, 1.35rem); background: rgba(255,255,255,.1); }
+.service-area-cta h3 { color: white; font-size: clamp(1.25rem, 2vw, 1.65rem); }
+.service-area-cta p { margin: 0; }
+.service-area-cta .btn { flex: 0 0 auto; }
+.service-area-cta .btn span { margin-left: .35rem; }
 .faq details { border: 1px solid var(--line); border-radius: 8px; padding: 1rem 1.1rem; margin-bottom: .75rem; background: white; }
 .faq summary { cursor: pointer; }
 .faq summary h3 { display: inline; font-size: 1.05rem; }
@@ -137,6 +149,8 @@ p { margin-top: 0; }
   .problem-nav { grid-column: 1 / -1; order: 3; padding-bottom: .2rem; flex-wrap: wrap; overflow-x: visible; }
   .hero, .service-hero, .split, .image-section, .image-section.reverse, .two-column, .conversion-cta { grid-template-columns: 1fr; }
   .problem-grid, .card-grid, .trust-grid, .three-up, .footer-grid { grid-template-columns: 1fr 1fr; }
+  .city-groups { grid-template-columns: 1fr 1fr; }
+  .service-area-cta { align-items: flex-start; flex-direction: column; }
   .problem-grid.compact { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 680px) {
@@ -154,6 +168,10 @@ p { margin-top: 0; }
   .form-card .compact-form label:nth-of-type(3), .form-card .compact-form .btn { grid-column: auto; }
   .hero, .service-hero { padding-top: 1rem; }
   .problem-grid, .card-grid, .trust-grid, .three-up, .footer-grid { grid-template-columns: 1fr; }
+  .city-groups { grid-template-columns: 1fr; }
+  .service-map-card { margin-top: 1rem; padding: .55rem; }
+  .service-area-cta .btn { width: 100%; }
+  .service-area-cta .btn span { display: block; margin-left: 0; }
   .hero-problem-finder h2 { font-size: 1.25rem; }
   .problem-grid.compact { grid-template-columns: 1fr 1fr; gap: .6rem; }
   .problem-grid.compact .problem-card { min-height: 92px; padding: .8rem; }
