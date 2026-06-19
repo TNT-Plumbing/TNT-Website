@@ -18,6 +18,24 @@
 
 **Questions for SEO review:** Which exact cities should remain in the service area? Is emergency availability 24/7 or limited? Is "Free whole-home inspection with service" an active offer? What verified owner bios and photos can be published?
 
+## 2026-06-19
+
+**Pages changed:** Homepage; shared header/footer across existing pages; About; supporting guide pages; service pages using shared contact/schema blocks.
+
+**New pages created:** None.
+
+**SEO improvements:** Added real phone/email contact signals; integrated TNT logo; moved Quick Problem Finder into the homepage hero; added slogan as supporting brand copy; removed public-facing internal launch notes.
+
+**Internal links added:** None. Existing Quick Problem Finder, service, About, cluster, and footer links preserved.
+
+**Schema changes:** Updated LocalBusiness/Plumber and Service schema phone number to (470) 508-8904; added email tntplumbing25@gmail.com where appropriate.
+
+**Technical changes:** Added logo asset at assets/images/tnt-plumbing-logo.png; added LAUNCH_CHECKLIST.md; confirmed sitemap.xml is valid XML and robots.txt points to https://tntplumbingatl.com/sitemap.xml.
+
+**Open issues:** Add real owner/team photos, truck/jobsite photos, verified reviews, confirmed service areas, emergency availability, and inspection offer language.
+
+**Questions for SEO review:** Should the slogan appear anywhere beyond hero/footer? Which service areas should remain live for launch? Should supporting guide pages remain indexable now or wait for fuller content?
+
 ---
 
 ## Date:
