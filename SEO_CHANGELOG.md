@@ -92,6 +92,24 @@
 
 **Questions for SEO review:** Should the sticky header also include About/Residential/Emergency links on desktop, or keep the funnel focused on the five problem paths plus call?
 
+## 2026-06-19
+
+**Pages changed:** Homepage; water heater repair; leak repair; water pressure repair; drain cleaning; toilet repair.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved existing page structure, metadata, schema, FAQs, internal links, sitemap, and robots while refining the conversion flow.
+
+**Internal links added:** None. Existing sticky Quick Problem Finder destinations preserved.
+
+**Schema changes:** None.
+
+**Technical changes:** Restyled sticky problem links as distinct buttons; removed the homepage CTA side box; reorganized problem-page CTA panels into a clearer intro, call button, and quick-request form.
+
+**Open issues:** Static CTA forms still use `mailto:` until a real form handler is connected.
+
+**Questions for SEO review:** After visual review, should the sticky header problem buttons use shorter labels on mobile to reduce horizontal scrolling?
+
 ## Date:
 
 ### Pages Changed
