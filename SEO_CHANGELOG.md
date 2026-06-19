@@ -110,6 +110,24 @@
 
 **Questions for SEO review:** After visual review, should the sticky header problem buttons use shorter labels on mobile to reduce horizontal scrolling?
 
+## 2026-06-19
+
+**Pages changed:** All existing pages using the shared sticky header; CTA styling on problem/service pages.
+
+**New pages created:** None.
+
+**SEO improvements:** Preserved existing SEO copy, metadata, schema, FAQs, sitemap, robots, internal links, and service-page architecture while improving conversion UI clarity.
+
+**Internal links added:** Added About to the sticky shortcut navigation on existing pages.
+
+**Schema changes:** None.
+
+**Technical changes:** Restyled sticky shortcut links as individual button-style navigation items; improved CTA card spacing, input styling, focus states, mobile stacking, and desktop call/form layout behavior.
+
+**Open issues:** Static forms still use `mailto:` until a real form handler is connected.
+
+**Questions for SEO review:** Should About remain in the sticky shortcut row after launch, or move into a secondary menu if the header gets crowded on smaller phones?
+
 ## Date:
 
 ### Pages Changed
