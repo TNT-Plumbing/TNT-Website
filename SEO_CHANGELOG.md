@@ -36,6 +36,24 @@
 
 **Questions for SEO review:** Should the slogan appear anywhere beyond hero/footer? Which service areas should remain live for launch? Should supporting guide pages remain indexable now or wait for fuller content?
 
+## 2026-06-19
+
+**Pages changed:** Homepage; About; supporting guide pages with public-facing internal-note cleanup.
+
+**New pages created:** None. Added PRELAUNCH_TESTS.md.
+
+**SEO improvements:** Confirmed local-server route structure for core pages; verified all checked internal links resolve; confirmed review/customer feedback section is present; removed remaining public placeholder/internal-note language.
+
+**Internal links added:** None. Existing header, footer, Quick Problem Finder, service, and supporting guide links preserved.
+
+**Schema changes:** None.
+
+**Technical changes:** Added prelaunch test checklist; validated sitemap.xml as XML; confirmed robots.txt points to https://tntplumbingatl.com/sitemap.xml; verified phone/email link formats.
+
+**Open issues:** Codex sandbox blocks binding a local web server, so final browser-based localhost testing should be run on the user machine before Netlify deploy.
+
+**Questions for SEO review:** Should supporting guide pages stay live for launch with current light guide copy, or be expanded before indexing?
+
 ---
 
 ## Date:
